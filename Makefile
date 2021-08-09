@@ -1,7 +1,7 @@
 DEBUG = 0
 
 CC = gcc
-EXEC = ms2psd
+EXEC = ms2psd0
 #COMMON = -I./libmseed/ -Iinclude/ -Isrc/ -I/usr/local/include/liquid
 COMMON = -I/usr/local/ -Iinclude/ -Isrc/ -I/usr/local/include/liquid -I/usr/local/include/
 CFLAGS =  -Wall
